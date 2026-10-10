@@ -17,11 +17,11 @@
 
 ### Page 1: Executive Overview & Demographics
 *Стратегический обзор ключевых KPI (Revenue, Delivered Revenue, Cancellation Rate, Avg Price, Orders), тренда продаж и демографического профиля клиентов.*
-![Executive Overview](./Скриншоты/image_12b259.png)
+![Executive Overview](./Скриншоты/PART 1.png)
 
 ### Page 2: Operational Deep Dive & Status Analysis
 *Операционный анализ структуры отмен/возвратов, распределения способов оплаты и уровня отмен по возрастным сегментам.*
-![Deep Dive](./Скриншоты/image_12b501.png)
+![Deep Dive](./Скриншоты/PART 2.png)
 
 ---
 
