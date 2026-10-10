@@ -17,10 +17,14 @@
 
 ### Page 1: Executive Overview & Demographics
 *Стратегический обзор ключевых KPI, тренда продаж и демографического профиля клиентов.*
+
+
 ![Executive Overview](./Screenshots/PART%201.png)
 
 ### Page 2: Operational Deep Dive & Status Analysis
 *Операционный анализ структуры отмен/возвратов и распределения способов оплаты.*
+
+
 ![Deep Dive](./Screenshots/PART%202%20-%20DEEP%20DIVE.png)
 
 ### Model Architecture
