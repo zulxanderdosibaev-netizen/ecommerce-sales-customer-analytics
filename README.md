@@ -1,8 +1,7 @@
 # 🛒 E-Commerce Sales & Customer Analytics Solution
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Data Architecture](https://img.shields.io/badge)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
