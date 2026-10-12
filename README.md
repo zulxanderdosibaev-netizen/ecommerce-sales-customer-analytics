@@ -78,13 +78,13 @@ e-commerce-sales-customer-analytics/
 ├── Данные/
 │   └── E-Commerce Sales & Customer Analytics ORIGINAL.csv             # Исходные транзакционные данные
 ├── Power BI/
-    └── DAX_MEASURES.docx      #Dax-Меры
-│   └──E-Commerce Sales & Customer Analytics Dashboard.pbix       # Рабочий файл дашборда Power BI
+    └── DAX_MEASURES.docx                                              #Dax-Меры
+│   └──E-Commerce Sales & Customer Analytics Dashboard.pbix            # Рабочий файл дашборда Power BI
 ├── Скриншоты/
-│   ├── PART 1.png           # Part 1: Executive Overview & Demographics
-│   ├── PART 2 - DEEP DIVE.png           # Part 2: Operational Deep Dive
-│   └── SCHEMA.png           # Model Architecture View
+│   ├── PART 1.png                                                     # Part 1: Executive Overview & Demographics
+│   ├── PART 2 - DEEP DIVE.png                                         # Part 2: Operational Deep Dive
+│   └── SCHEMA.png                                                     # Model Architecture View
 ├── Sql/
-│   └── E-Commerce Sales & Customer Analytics.sql       # Комплекс из 9 T-SQL запросов для Ad-Hoc анализа
-├── .gitignore                     # Исключение временных файлов PBIX / OS
-└── README.md                      # Документация проекта
+│   └── E-Commerce Sales & Customer Analytics.sql                      # Комплекс из 9 T-SQL запросов для Ad-Hoc анализа
+├── .gitignore                                                         # Исключение временных файлов PBIX / OS
+└── README.md                                                          # Документация проекта
