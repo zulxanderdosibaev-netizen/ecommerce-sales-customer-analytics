@@ -11,6 +11,10 @@
 
 ---
 
+| 1. Executive Overview | 2. Industry Deep Dive | 3. Star Schema DWH |
+| :---: | :---: | :---: |
+| <img src="SCREENSHOTS/Part 1.png" width="280"> | <img src="SCREENSHOTS/02_deep_dive_dashboard.png" width="280"> | <img src="SCREENSHOTS/03_star_schema_model.png" width="280"> |
+
 ## 🖼️ Visual Showcase
 
 ### Page 1: Executive Overview & Demographics
