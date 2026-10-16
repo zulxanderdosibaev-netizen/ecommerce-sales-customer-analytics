@@ -13,7 +13,7 @@
 
 | 1. Executive Overview | 2. Industry Deep Dive |
 | :---: | :---: |
-| <img src="Screenshots/Part 1.png" width="280"> | <img src="SCREENSHOTS/Part 2 - deep_dive.png" width="280"> | 
+| <img src="Screenshots/ Part 1.png" width="280"> | <img src="SCREENSHOTS/Part 2 - deep_dive.png" width="280"> | 
 
 ## 🖼️ Visual Showcase
 
