@@ -11,26 +11,11 @@
 
 ---
 
+## 🖼️ Visual Showcase
+
 | 1. Executive Overview | 2. Industry Deep Dive |
 | :---: | :---: |
 | <img src="Screenshots/PART%201.png" width="400"> | <img src="Screenshots/PART%202%20-%20DEEP%20DIVE.png" width="400"> |
-
-## 🖼️ Visual Showcase
-
-### Page 1: Executive Overview & Demographics
-*Стратегический обзор ключевых KPI, тренда продаж и демографического профиля клиентов.*
-
-
-![Executive Overview](./Screenshots/PART%201.png)
-
-### Page 2: Operational Deep Dive & Status Analysis
-*Операционный анализ структуры отмен/возвратов и распределения способов оплаты.*
-
-
-![Deep Dive](./Screenshots/PART%202%20-%20DEEP%20DIVE.png)
-
-### Model Architecture
-![Schema](./Screenshots/SCHEMA.png)
 
 ---
 
